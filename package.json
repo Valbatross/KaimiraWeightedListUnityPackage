@@ -3,9 +3,9 @@
   "version" : "1.0.0",
   "displayName" : "Kaimira Weighted List",
   "description" : "Optimized weighted list implementation",
-  "documentation" : "https://github.com/cdanek/KaimiraWeightedList/blob/main/README.md",
+  "documentation" : "https://github.com/Valbatross/KaimiraWeightedListUnityPackage/blob/unity/README.md",
   "author" : {
     "name" : "cdanek",
-    "url" : "https://github.com/cdanek/KaimiraWeightedList"
+    "url" : "https://github.com/Valbatross/KaimiraWeightedListUnityPackage/tree/unity"
   }
 }
