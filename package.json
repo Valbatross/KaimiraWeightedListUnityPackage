@@ -1,0 +1,11 @@
+﻿{
+  "name" : "com.kaimira.weightedlist",
+  "version" : "1.0.0",
+  "displayName" : "Kaimira Weighted List",
+  "description" : "Optimized weighted list implementation",
+  "documentation" : "https://github.com/cdanek/KaimiraWeightedList/blob/main/README.md",
+  "author" : {
+    "name" : "cdanek",
+    "url" : "https://github.com/cdanek/KaimiraWeightedList"
+  }
+}
